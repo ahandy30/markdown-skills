@@ -15,3 +15,7 @@ var name = "Ashley";
 first_name = "Ashley";
 ```
 
+- [x] Create a task list
+- [x] Create items for the list
+- [ ] Make an item that is not complete
+
